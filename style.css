@@ -16,20 +16,20 @@ body{
 }
 
 button{
-    padding: 20px 40;
+    padding: 10px 40px;
     cursor: pointer;
     border: 1px solid white ;
     outline: none;
     background-color: transparent;
     color: white;
     transition: 0.8s;
-    /* border-radius: 30%; */
+    border-radius: 20%;
     
 
 }
 
 button:hover{
-    transform: scale(1.4);
+    transform: scale(2.1);
 }
 
 button:active{
